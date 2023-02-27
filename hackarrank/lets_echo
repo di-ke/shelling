@@ -1,0 +1,4 @@
+# A script that prints HELLO on the console
+#
+#!/bin/bash
+echo "HELLO"
